@@ -1,0 +1,8 @@
+name = "omni-api-proxy"
+main = "api-proxy.js"
+compatibility_date = "2024-03-24"
+account_id = "6e923db1317c9ba112028d1a5bd19439"
+
+[[routes]]
+pattern = "proxy-api.websopen.com/*"
+zone_id = "5b9f00cd2214612270f8dcba571a6eab"
